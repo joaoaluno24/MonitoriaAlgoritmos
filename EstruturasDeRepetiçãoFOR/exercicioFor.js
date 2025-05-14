@@ -1,9 +1,9 @@
 //📝Exercício 1: A Contagem Mais Básica (de 0 a 4)
 //🎯Objetivo: Entender a estrutura padrão do loop for, começando a contar do zero.
 //🔍Enunciado: Use um loop for para imprimir os números de 0 a 4 no console.
+let 0
 
-
-
+for(let console.log 0 + n <= 4)
 
 
 
