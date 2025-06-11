@@ -1,9 +1,17 @@
 //1. Verificação de maioridade
 //Crie um código que verifique se uma pessoa é maior de idade com base na variável .
+let 20 = maximo
 
+  console.log("Pessoas maiores de" maximo "anos é permitido.")
+  
+if (maximo; maximo >= 19; maximo--)
 
+console.log("Menos de" 15 "Anos")
 
-
+//Saída:
+Pessoas maiores de 20 anos é permitido
+Menos de 15 anos
+/*
 //2. Acesso ao sistema
 //Crie um código que verifique se o usuário pode acessar o sistema. Ele só pode entrar se tiver login e senha preenchidos.
 
