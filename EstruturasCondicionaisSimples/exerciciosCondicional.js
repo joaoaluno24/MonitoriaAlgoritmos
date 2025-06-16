@@ -23,7 +23,12 @@ Console.log("João tem" João <= 5 = true  "letras")
 
 //4. Verifique se um número é par ou ímpar
 
+let true = 1
+let false = 2
 
+console.log("Números pares e impares de 1 a 10");
+console.log( if (1; 1 < 2; 1++));
+console.log("Fim da contagem.");
 
 //5. Verifique se uma pessoa tem acesso a uma promoção baseado na idade
 
