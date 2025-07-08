@@ -32,3 +32,20 @@ console.log("Fim da contagem.");
 
 //5. Verifique se uma pessoa tem acesso a uma promoção baseado na idade
 
+
+let idade = 18;
+
+
+
+console.log("Teste de Desconto por Idade");
+
+if(idade >= 18)
+console.log("Parabéns! Desconto obtido!");
+
+else{
+console.log("Desculpe. Desconto não garantido.");
+}
+//Saída
+//Teste de Desconto por idade
+//(>= 18)Parabéns! Desconto obtido!
+//(-18) Desculpe. Desconto não garantido.
